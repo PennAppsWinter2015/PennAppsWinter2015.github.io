@@ -26,7 +26,6 @@ body {
 .form-group {
 	margin-top: 2%;
 	margin-left: 25%;
-	display: block;
 	margin-right: 25%;
 }
 #sectionH {
@@ -49,8 +48,11 @@ body {
 }
 
 #submit {
-	margin-top: 2%;
+	margin-top: 3%;
 	font-size: 15px;
+	text-align: center;
+
+
 }
 .form-control {
 	opacity: 0.7;
